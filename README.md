@@ -2,7 +2,8 @@
 
 # Alunos: Wesley Erik Sardi e Victor Hugo Bosse Kuhn
 
-# ---------------------------- PLANEJAMENTO E OPERAÇÃO:
+# ----------- PLANEJAMENTO E OPERAÇÃO: -----------
+
 # Como você organizou seu código?
 
 O código foi organizado em 4 arquivos destintos:
@@ -22,7 +23,8 @@ A princípio, encontramos problemas com a primeira linguagem utilizada, o JavaSc
 
 De início, JavaScript, mas, conforme explicado anteriormente, tivemos que trocar para Java, visto que um dos integrantes da nossa dupla tinha maior dominância nessa linguagem quando comparado a JavaScript.
 
-# ---------------------------- TESTE:
+# ----------- TESTE: -----------
+
 # Como você testou seu código?
 
 Geramos várias chaves diferentes e testamos para ver se a encriptação/decriptação funcionaria como o esperado. Além disso, testamos todas as funcionalidades do projeto utilizando "prints" e visualizando se os processos estavam funcionando e retornando o esperado.
@@ -39,7 +41,8 @@ Atualmente, tudo funciona.
 
 Não, tudo está funcional.
 
-# AVALIE O PROJETO:
+# ----------- AVALIE O PROJETO: -----------
+
 # O que você aprendeu?
 
 Posso considerar como aprendizado:
@@ -51,6 +54,6 @@ Posso considerar como aprendizado:
 
 Sim, valeu a pena, pois aprendizado nunca é demais.
 
-# ---------------------------- APRENDIZADO:
+# ----------- APRENDIZADO: -----------
 
 Posso concluir que aprimoramos nossas lógica de programação, nosso conhecimento sobre Criptografia e sobre as linguagens utilizadas. Deste modo, teremos mais facilidade em entender como um processo de encriptação e decriptação ocorre e, portanto, será mais fácil de lidar com possíveis problemas futuros relacionados a isso. Bem como, quando relacionado às linguagem utilizadas, podemos concluir que enfrentar os problemas que a execução deste projeto ocasionou, tornou o nosso modo de lidar com estes mesmos muito mais eficaz e, portanto, em um possível projeto futuro, provavelmente, estes erros não serão cometidos novamente.
